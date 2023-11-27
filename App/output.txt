@@ -1,0 +1,4 @@
+10
+s, 3.14
+Hi! I'm very very happy today.
+D:\Youetsu\VSProject\filereadwrite\App
